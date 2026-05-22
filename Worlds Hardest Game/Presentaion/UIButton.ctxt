@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=UIButton
+comment1.params=x\ y\ width\ height\ image
+comment1.target=UIButton(int,\ int,\ int,\ int,\ java.awt.image.BufferedImage)
+comment2.params=g
+comment2.target=void\ draw(java.awt.Graphics)
+comment3.params=mx\ my
+comment3.target=boolean\ isClicked(int,\ int)
+comment4.params=
+comment4.target=int\ getX()
+comment5.params=
+comment5.target=int\ getY()
+comment6.params=
+comment6.target=int\ getWidth()
+comment7.params=
+comment7.target=int\ getHeight()
+comment8.params=x\ y
+comment8.target=void\ setPosition(int,\ int)
+comment9.params=width\ height
+comment9.target=void\ setSize(int,\ int)
+numComments=10
