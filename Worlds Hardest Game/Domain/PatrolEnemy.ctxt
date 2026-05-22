@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PatrolEnemy
+comment1.params=x\ y
+comment1.target=PatrolEnemy(double,\ double)
+comment2.params=px\ py
+comment2.target=void\ addWaypoint(int,\ int)
+comment3.params=boardWidth\ boardHeight
+comment3.target=void\ updateMovement(double,\ double)
+numComments=4

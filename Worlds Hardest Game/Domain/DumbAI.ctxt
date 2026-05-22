@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DumbAI
+comment1.params=name\ x\ y
+comment1.target=DumbAI(java.lang.String,\ double,\ double)
+comment2.params=level\ target
+comment2.target=void\ updateAI(Level,\ Player)
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=x\ y\ speed
+comment1.target=Enemy(double,\ double,\ double)
+comment2.params=boardWidth\ boardHeight
+comment2.target=void\ updateMovement(double,\ double)
+numComments=3
