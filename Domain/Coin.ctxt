@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Coin
+comment1.params=x\ y\ width\ height
+comment1.target=Coin(double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=boolean\ isCollected()
+comment3.params=collected
+comment3.target=void\ setCollected(boolean)
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SpriteLoader
+comment1.params=name
+comment1.target=java.awt.image.BufferedImage\ load(java.lang.String)
+comment2.params=
+comment2.target=java.awt.image.BufferedImage\ createPlaceholder()
+numComments=3

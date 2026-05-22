@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=LevelFactory
+comment1.params=level
+comment1.target=Level\ create(int)
+comment2.params=
+comment2.target=Level\ level1()
+comment3.params=level
+comment3.target=void\ buildSquareWalls(Level)
+comment4.params=level
+comment4.target=void\ addCenterCoins(Level)
+comment5.params=level
+comment5.target=void\ addVerticalEnemies(Level)
+comment6.params=
+comment6.target=Level\ level2()
+comment7.params=
+comment7.target=Level\ level3()
+numComments=8
