@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=FastEnemy
-comment1.params=x\ y\ initialDir
-comment1.target=FastEnemy(double,\ double,\ Direction)
-comment2.params=boardWidth\ boardHeight
-comment2.target=void\ updateMovement(double,\ double)
-comment3.params=
-comment3.target=void\ bounce()
-numComments=4

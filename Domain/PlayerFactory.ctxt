@@ -1,5 +1,0 @@
-#BlueJ class context
-comment0.target=PlayerFactory
-comment1.params=type
-comment1.target=Player\ create(CharacterType)
-numComments=2

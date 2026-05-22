@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=SafeZone
-comment1.params=x\ y\ width\ height\ isFinalZone
-comment1.target=SafeZone(double,\ double,\ double,\ double,\ boolean)
-comment2.params=
-comment2.target=boolean\ isFinalZone()
-numComments=3
